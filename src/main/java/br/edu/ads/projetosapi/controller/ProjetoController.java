@@ -10,8 +10,8 @@ public class ProjetoController {
     public Map<String, Object> consultarProjeto() {
         return Map.of(
             "id", 1,
-            "nome", "Sistema de Gestao Academica",
-            "responsavel", "Equipe ADS",
+            "nome", "portal de estagios",
+            "responsavel", "Equipe ConectaTech",
             "status", "Em desenvolvimento"
         );
     }
